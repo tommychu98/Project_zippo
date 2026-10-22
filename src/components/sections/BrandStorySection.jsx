@@ -1,18 +1,40 @@
-import Picture from "../ui/Picture";
-export default function BrandStorySection() {
+import { useRef } from 'react';
+import MotionPicture from '../ui/MotionPicture';
+import RevealLines from '../ui/RevealLines';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { storyMotion } from '../../motion/homeMotion';
+
+function StoryTicker({ className, children }) {
   return (
-    <section id="story" className="story-section" aria-labelledby="story-title">
+    <div className={`story-ticker ${className}`} aria-hidden="true">
+      <div className="story-ticker-track">
+        {[0, 1].map(group => (
+          <div className="story-ticker-group" key={group}>
+            <span>{children}</span>
+            <span>{children}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default function BrandStorySection() {
+  const section = useRef(null);
+  useSectionMotion(section, storyMotion);
+  return (
+    <section ref={section} id="story" className="story-section" aria-labelledby="story-title">
       <div className="story-heading">
-        <h2 id="story-title">ZIPPO STORY</h2>
+        <h2 id="story-title"><RevealLines lines={['ZIPPO STORY']} /></h2>
         <p>SINCE 1932</p>
       </div>
-      <div className="story-ticker ticker-back" aria-hidden="true">
+      <StoryTicker className="ticker-back">
         THE POCKET ARCHIVE
-      </div>
-      <div className="story-ticker ticker-front" aria-hidden="true">
+      </StoryTicker>
+      <StoryTicker className="ticker-front">
         KEEP THE FLAME ALIVE
-      </div>
-      <Picture
+      </StoryTicker>
+      <MotionPicture
         name="imgStoryImage"
         alt="골드 Zippo를 든 여성의 햇살 가득한 초상"
         className="story-image"
@@ -20,25 +42,7 @@ export default function BrandStorySection() {
       <div className="story-panel">
         <div className="story-content">
           <h3>
-            BUILT TO LAST.
-            <br />
-            MADE TO
-            <br />
-            REMEMBER.
-            <br />
-            EVERY CLICK,
-            <br />
-            EVERY SCRATCH,
-            <br />
-            EVERY FLAME
-            <br />
-            BECOMES
-            <br />
-            PART
-            <br />
-            OF YOUR
-            <br />
-            STORY.
+            <RevealLines lines={['BUILT TO LAST.', 'MADE TO', 'REMEMBER.', 'EVERY CLICK,', 'EVERY SCRATCH,', 'EVERY FLAME', 'BECOMES', 'PART', 'OF YOUR', 'STORY.']} />
           </h3>
           <p>
             1932년부터 Zippo는 단순한 라이터가 아닌,

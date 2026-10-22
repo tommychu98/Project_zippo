@@ -1,7 +1,5 @@
 import { useRef, useState, useEffect } from "react";
-import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { useGSAP } from "@gsap/react";
 import HeroSection from "../components/sections/HeroSection";
 import CollectionSection from "../components/sections/CollectionSection";
 import BrandStorySection from "../components/sections/BrandStorySection";
@@ -10,7 +8,7 @@ import CampaignSection from "../components/sections/CampaignSection";
 import ExploreSection from "../components/sections/ExploreSection";
 import FooterNav from "../components/layout/FooterNav";
 import SiteFooter from "../components/layout/SiteFooter";
-gsap.registerPlugin(ScrollTrigger, useGSAP);
+import "../styles/motion.css";
 export default function HomePage() {
   const page = useRef(null),
     dialog = useRef(null);
@@ -22,28 +20,29 @@ export default function HomePage() {
   useEffect(() => {
     document.title = "ZIPPO — One lighter. A lifetime of stories.";
   }, []);
-  useGSAP(
-    () => {
-      const media = gsap.matchMedia();
-      media.add("(prefers-reduced-motion: no-preference)", () => {
-        gsap.utils
-          .toArray(
-            ".story-heading, .gallery-section > h2, .explore-section > h2",
-          )
-          .forEach((element) =>
-            gsap.from(element, {
-              y: 24,
-              opacity: 0,
-              duration: 0.7,
-              ease: "power2.out",
-              scrollTrigger: { trigger: element, start: "top 95%", once: true },
-            }),
-          );
-      });
-      return () => media.revert();
-    },
-    { scope: page },
-  );
+  useEffect(() => {
+    let mounted = true;
+    let frame;
+    const refresh = () => {
+      if (!mounted) return;
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() => { if (mounted) ScrollTrigger.refresh(); });
+    };
+    document.fonts.ready.then(refresh);
+    document.fonts.addEventListener('loadingdone', refresh);
+    const root = page.current;
+    root.addEventListener('load', refresh, true);
+    window.addEventListener('pageshow', refresh);
+    // Router resets scroll on the mount frame; measure after that reset as well.
+    refresh();
+    return () => {
+      mounted = false;
+      cancelAnimationFrame(frame);
+      root.removeEventListener('load', refresh, true);
+      document.fonts.removeEventListener('loadingdone', refresh);
+      window.removeEventListener('pageshow', refresh);
+    };
+  }, []);
   return (
     <div ref={page}>
       <a className="skip-link" href="#collection">

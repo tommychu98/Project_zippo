@@ -4,6 +4,7 @@ import assert from "node:assert/strict";
 const browser = await chromium.launch({ headless: true });
 await fs.mkdir("docs/screenshots", { recursive: true });
 const report = [];
+const origin = process.env.PREVIEW_URL || 'http://127.0.0.1:5173';
 for (const width of [1920, 1440, 1024, 768, 390]) {
   const page = await browser.newPage({
     viewport: { width, height: 1000 },
@@ -15,7 +16,7 @@ for (const width of [1920, 1440, 1024, 768, 390]) {
     if (response.status() >= 400)
       errors.push(`${response.status()} ${response.url()}`);
   });
-  await page.goto("http://127.0.0.1:5173/", { waitUntil: "networkidle" });
+  await page.goto(origin, { waitUntil: "networkidle" });
   await page.evaluate(async () => {
     await document.fonts.ready;
     for (const image of document.images) {

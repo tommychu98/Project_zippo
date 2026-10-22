@@ -49,6 +49,10 @@ export default function ShopProvider({ children }) {
     setCartOpen(false);
     const change = () => {
       if (!pop) history.pushState({}, '', url.pathname + url.search + url.hash);
+      // Layout effects in the incoming page measure synchronously during mount.
+      // Reset the outgoing scroll first so new reveal triggers don't consume
+      // their first entrance at the previous page's footer position.
+      window.scrollTo({ top: 0, behavior: 'instant' });
       flushSync(() => { setRoute(next); setCartOpen(false); });
       window.scrollTo({ top: 0, behavior: 'instant' });
       requestAnimationFrame(() => {

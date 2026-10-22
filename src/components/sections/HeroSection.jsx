@@ -1,10 +1,17 @@
 import SiteHeader from "../layout/SiteHeader";
 import Picture from "../ui/Picture";
 import Wordmark from "../ui/Wordmark";
+import { useRef } from 'react';
+import RevealLines from '../ui/RevealLines';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { heroMotion } from '../../motion/homeMotion';
 export default function HeroSection({ onNotice }) {
+  const section = useRef(null);
+  useSectionMotion(section, heroMotion);
   return (
     <section
       id="home"
+      ref={section}
       className="hero-section"
       aria-label="Zippo — A lifetime of stories"
     >
@@ -22,8 +29,8 @@ export default function HeroSection({ onNotice }) {
         </span>
       </h1>
       <div className="hero-copy">
-        <p>ONE LIGHTER.</p>
-        <p>A LIFETIME OF STORIES.</p>
+        <p><RevealLines lines={['ONE LIGHTER.']} /></p>
+        <p><RevealLines lines={['A LIFETIME OF STORIES.']} /></p>
         <a className="text-link" href="#story">
           DISCOVER THE ARCHIVE →
         </a>

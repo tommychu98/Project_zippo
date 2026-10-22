@@ -1,14 +1,21 @@
 import { exploreCategories } from "../../data/navigation";
 import Picture from "../ui/Picture";
+import { useRef } from 'react';
+import RevealLines from '../ui/RevealLines';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { exploreMotion } from '../../motion/homeMotion';
 export default function ExploreSection() {
+  const section = useRef(null);
+  useSectionMotion(section, exploreMotion);
   return (
     <section
       id="explore"
+      ref={section}
       className="explore-section"
       aria-labelledby="explore-title"
     >
       <h2 id="explore-title">
-        <a href="/shop">EXPLORE ZIPPO</a>
+        <a href="/shop"><RevealLines lines={['EXPLORE ZIPPO']} /></a>
       </h2>
       <div className="explore-list">
         {exploreCategories.map((category) => (

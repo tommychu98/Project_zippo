@@ -2,11 +2,17 @@ import { useRef, useState } from "react";
 import { collections } from "../../data/collections";
 import ProductCard from "../ui/ProductCard";
 import { useShop } from "../../shop/useShop";
+import RevealLines from '../ui/RevealLines';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { collectionMotion, productsMotion } from '../../motion/homeMotion';
 export default function CollectionSection() {
   const { navigate } = useShop();
   const [tab, setTab] = useState("CLASSIC");
   const collection = collections.find(collection => collection.id === tab);
   const list = useRef(null);
+  const section = useRef(null);
+  useSectionMotion(section, collectionMotion);
+  useSectionMotion(list, productsMotion, [tab]);
   function move(direction) {
     const width =
       list.current.querySelector(".product-card")?.getBoundingClientRect()
@@ -22,13 +28,12 @@ export default function CollectionSection() {
   return (
     <section
       id="collection"
+      ref={section}
       className="collection-section"
       aria-labelledby="collection-title"
     >
       <h2 id="collection-title">
-        DISCOVER
-        <br />
-        THE COLLECTION
+        <RevealLines lines={['DISCOVER', 'THE COLLECTION']} />
       </h2>
       <div className="collection-tabs" role="tablist" aria-label="컬렉션">
         {collections.map(({ id: name }) => (
@@ -77,11 +82,12 @@ export default function CollectionSection() {
               }}
             >
               {collection.products.map((product) => (
-                <ProductCard
-                  key={product.id}
-                  product={product}
-                  onSelect={() => navigate(`/shop?category=${collection.category}`)}
-                />
+                <div className="product-reveal" key={product.id}>
+                  <ProductCard
+                    product={product}
+                    onSelect={() => navigate(`/shop?category=${collection.category}`)}
+                  />
+                </div>
               ))}
             </div>
             <div className="carousel-controls">

@@ -1,9 +1,14 @@
 import { footerColumns } from "../../data/navigation";
 import NewsletterForm from "../ui/NewsletterForm";
 import Wordmark from "../ui/Wordmark";
+import { useRef } from 'react';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { footerMotion } from '../../motion/homeMotion';
 export default function SiteFooter({ onNotice }) {
+  const section = useRef(null);
+  useSectionMotion(section, footerMotion);
   return (
-    <footer id="footer" className="site-footer">
+    <footer ref={section} id="footer" className="site-footer">
       <div className="footer-top">
         <div className="footer-newsletter">
           <h2>

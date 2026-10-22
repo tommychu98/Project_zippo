@@ -412,10 +412,10 @@
   gap: 3.958333vw;
   padding-top: 0.208333vw;
 }
-.gallery-stack picture:first-child {
+.gallery-stack .motion-image:first-child {
   aspect-ratio: 655/893;
 }
-.gallery-stack picture:last-child {
+.gallery-stack .motion-image:last-child {
   aspect-ratio: 655/697;
 }
 .sticker-link {
@@ -560,10 +560,10 @@
   position: relative;
   isolation: isolate;
 }
-.explore-section h2 span {
+.explore-section h2 > span {
   position: relative;
 }
-.explore-section h2 span::before {
+.explore-section h2 > span::before {
   content: "";
   position: absolute;
   z-index: -1;

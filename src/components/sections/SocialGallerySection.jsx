@@ -1,25 +1,32 @@
-import Picture from "../ui/Picture";
+import { useRef } from 'react';
+import MotionPicture from '../ui/MotionPicture';
+import RevealLines from '../ui/RevealLines';
+import useSectionMotion from '../../hooks/useSectionMotion';
+import { galleryMotion } from '../../motion/homeMotion';
 export default function SocialGallerySection({ onNotice }) {
+  const section = useRef(null);
+  useSectionMotion(section, galleryMotion);
   return (
     <section
       id="gallery"
+      ref={section}
       className="gallery-section"
       aria-labelledby="gallery-title"
     >
-      <h2 id="gallery-title">SPOTTED WITH ZIPPO</h2>
-      <p className="hashtag-badge">#CARRYTHEFLAME</p>
+      <h2 id="gallery-title"><RevealLines lines={['SPOTTED WITH ZIPPO']} /></h2>
+      <p className="hashtag-badge"><span>#CARRYTHEFLAME</span></p>
       <div className="gallery-grid">
-        <Picture
+        <MotionPicture
           name="imgGalleryImageLarge"
           alt="민트 Zippo와 함께한 햇살 아래의 순간"
           className="gallery-large"
         />
         <div className="gallery-stack">
-          <Picture
+          <MotionPicture
             name="imgGalleryImageTop"
             alt="초록 셔츠와 레드 Zippo를 매치한 남성"
           />
-          <Picture
+          <MotionPicture
             name="imgGalleryImageBottom"
             alt="보라색 의상과 블랙 Zippo를 매치한 여성"
           />
@@ -34,7 +41,7 @@ export default function SocialGallerySection({ onNotice }) {
           )
         }
       >
-        VIEW ALL
+        <span>VIEW ALL</span>
       </button>
     </section>
   );

@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Test and verification output
+coverage
+test-results
+playwright-report
+blob-report
+docs/screenshots
+docs/verification.json
+docs/figma-reference.png
+docs/reference-*.png
+docs/ref-*.png
+docs/original-*.png
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

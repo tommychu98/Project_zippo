@@ -1,0 +1,13 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --muted: #73736e;
+  --accent: #ffd166;
+  --accent-soft: #fff4c2;
+  --campaign: #ffeb00;
+  --sans: "IBM Plex Sans KR", sans-serif;
+  --display: "Archivo Black", sans-serif;
+  --mono: "IBM Plex Mono", monospace;
+  --gutter: 4.166667vw;
+  --section-space: 7.291667vw;
+}

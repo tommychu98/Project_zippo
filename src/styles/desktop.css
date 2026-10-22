@@ -20,14 +20,31 @@
   z-index: 3;
 }
 .header-icons {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 9.090909%;
   width: 5.729167vw;
   min-width: 66px;
 }
-.header-icons img {
-  height: auto;
+.header-icon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 45.454545%;
+  aspect-ratio: 1;
+  color: #FFD166;
+  transition: color 180ms ease;
+}
+.header-icon svg {
+  display: block;
+  width: 68%;
+  height: 68%;
+}
+.header-icon:hover,
+.header-icon:focus-visible {
+  color: #FFD166;
 }
 .desktop-nav {
+  color: #FFD166;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -40,6 +57,7 @@
   text-underline-offset: 5px;
 }
 .header-utility {
+  color: #FFD166;
   display: flex;
   align-items: center;
   gap: 2.083333vw;
@@ -115,7 +133,8 @@
   position: absolute;
   right: 4.0625vw;
   bottom: 4.010417vw;
-  background: var(--muted);
+  background: #FFD166;
+  color: #fff;
   width: 14.6875vw;
   text-align: center;
   font-size: max(12px, 0.9375vw);
@@ -193,6 +212,12 @@
 .product-hover {
   opacity: 0;
 }
+.product-card-catalog { background: #f3f3f1; }
+.product-card-catalog .product-default img { object-fit: contain; padding: 10% 10% 22%; mix-blend-mode: multiply; }
+.product-card-catalog .product-name { font-size: clamp(12px, .8vw, 16px); line-height: 1.4; }
+.product-card-catalog .product-name::before { content: ''; position: absolute; inset: -10px; z-index: -1; background: #ffffffe6; }
+.product-card-catalog .product-name { z-index: 1; }
+.product-card-catalog .product-hover img { object-position: center; }
 .product-card:focus-visible .product-hover {
   opacity: 1;
 }
@@ -205,18 +230,18 @@
   bottom: 5.04%;
   font-size: max(12px, 0.885417vw);
   line-height: 1.647;
+  max-width: 55%;
 }
 .product-badge {
   position: absolute;
-  left: 78.38%;
-  top: 90.07%;
-  width: 12.47%;
-  height: 3.05%;
+  right: 8.52%;
+  bottom: 5.5%;
+  padding: 2px 9px;
+  color: #000;
+  font: 500 clamp(11px, .729167vw, 14px)/1.4 var(--mono);
+  white-space: nowrap;
   background: var(--accent);
   transform: rotate(-2.84deg);
-}
-.product-chrome .product-badge {
-  background: #fff;
 }
 .carousel-controls {
   position: absolute;

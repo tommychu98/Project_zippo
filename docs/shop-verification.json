@@ -1,0 +1,160 @@
+{
+  "report": [
+    {
+      "category": "new",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "custom",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "armor",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "540-color",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "new",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "custom",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "armor",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "540-color",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "new",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "custom",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "armor",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "540-color",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "new",
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "custom",
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "armor",
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "540-color",
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "new",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "custom",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "armor",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "clippedCaptions": 0
+    },
+    {
+      "category": "540-color",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "clippedCaptions": 0
+    }
+  ],
+  "errors": [],
+  "checks": [
+    "40 official products + 4 studio products",
+    "category filtering",
+    "price sorting",
+    "hover/focus",
+    "touch",
+    "gallery/zoom",
+    "cart arithmetic",
+    "cart persistence/removal/recommendations",
+    "dialog dismissal",
+    "yellow transition",
+    "history",
+    "home entry links",
+    "404"
+  ]
+}

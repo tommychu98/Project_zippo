@@ -1,6 +1,6 @@
 import { exploreCategories } from "../../data/navigation";
 import Picture from "../ui/Picture";
-export default function ExploreSection({ onNotice }) {
+export default function ExploreSection() {
   return (
     <section
       id="explore"
@@ -8,19 +8,14 @@ export default function ExploreSection({ onNotice }) {
       aria-labelledby="explore-title"
     >
       <h2 id="explore-title">
-        <span>EXPLORE ZIPPO</span>
+        <a href="/shop">EXPLORE ZIPPO</a>
       </h2>
       <div className="explore-list">
         {exploreCategories.map((category) => (
-          <button
+          <a
             key={category.name}
             className="explore-row"
-            onClick={() =>
-              onNotice(
-                category.name,
-                "카테고리별 상품 목록은 준비 중입니다. CLASSIC 컬렉션에서 현재 공개된 제품 이미지를 확인할 수 있습니다.",
-              )
-            }
+            href={`/shop?category=${category.shopCategory}`}
           >
             <span className="explore-label">{category.label}</span>
             <span className="explore-detail">
@@ -30,14 +25,13 @@ export default function ExploreSection({ onNotice }) {
             <span className="explore-arrow" aria-hidden="true">
               ↗
             </span>
-          </button>
+          </a>
         ))}
       </div>
-      <Picture
+      <a href="/shop?category=new" className="explore-polaroid" aria-label="신제품 쇼핑하기"><Picture
         name="imgNewProductPolaroid"
         alt="새로운 Zippo 제품을 소개하는 폴라로이드"
-        className="explore-polaroid"
-      />
+      /></a>
     </section>
   );
 }

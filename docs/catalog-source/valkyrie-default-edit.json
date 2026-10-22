@@ -1,0 +1,8 @@
+{
+  "id": "1000001912",
+  "tool": "built-in image_gen",
+  "intent": "Match the other catalog products: white background and slight three-quarter pose",
+  "prompt": "Edit image 1 (the black and gold Valkyrie lighter) to match the ecommerce catalog photography of image 2 (the silver wolf lighter). Image 1 is the product identity reference and edit target. Image 2 is ONLY the pose, framing and clean background reference; do not copy its artwork or silver color. Replace image 1's dark background and gold tray with pure white seamless background, with no props and no floor reflection. Turn the Valkyrie lighter into the exact same slight three-quarter view as image 2: standing upright, left side and hinge visibly exposed, frontal decorated face receding slightly toward the right, visible thin top plane. Match image 2's product size and composition: square canvas, full lighter almost fills height with about 3 percent white margins at top and bottom, centered. Keep the black/dark chrome body and gold Valkyrie relief, gold ornamental border, closed lid, and exact VALKYRIE lettering of image 1. Preserve faithful artwork, case proportions and material colors. Clean evenly lit high-end product cutout photograph. No lifestyle scene, no frame, no extra text, no watermark.",
+  "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-c547286e-2885-46e6-91d7-a4d629691dbe.png",
+  "output": "public/images/collections/emblem/1000001912-default.webp"
+}

@@ -14,7 +14,7 @@ export default function CampaignSection() {
             <br />
             NEVER ORDINARY
           </h2>
-          <a className="text-link" href="#explore">
+          <a className="text-link" href="/shop">
             DISCOVER THE FLAME →
           </a>
         </div>

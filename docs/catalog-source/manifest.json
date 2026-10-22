@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "1000002391",
+    "category": "new",
+    "name": "ZIPPO 지포 47449 플로럴 레오파드",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47449 플로럴 레오파드",
+    "promotion": "사은품 오일증정",
+    "sku": "47449",
+    "price": 59000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002391",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002391/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_044.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002391/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_141.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002391/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_287.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002391/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_399.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002391/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_418.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002391/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002391/image/detail/1000002391_detail_583.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002391/02.webp",
+    "hoverImage": "/images/shop/new/1000002391/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002390",
+    "category": "new",
+    "name": "ZIPPO 지포 47438 그런지 플래그",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47438 그런지 플래그",
+    "promotion": "사은품 오일증정",
+    "sku": "47438",
+    "price": 79000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002390",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002390/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_041.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002390/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_121.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002390/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_243.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002390/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_373.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002390/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_466.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002390/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002390/image/detail/1000002390_detail_558.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002390/02.webp",
+    "hoverImage": "/images/shop/new/1000002390/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002389",
+    "category": "new",
+    "name": "ZIPPO 지포 47437 어브덕션",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47437 어브덕션",
+    "promotion": "사은품 오일증정",
+    "sku": "47437",
+    "price": 59000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002389",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002389/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_070.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002389/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_199.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002389/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_220.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002389/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_340.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002389/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_42.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002389/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002389/image/detail/1000002389_detail_533.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002389/02.webp",
+    "hoverImage": "/images/shop/new/1000002389/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002388",
+    "category": "new",
+    "name": "ZIPPO 지포 47434 지포 게이머",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47434 지포 게이머",
+    "promotion": "사은품 오일증정",
+    "sku": "47434",
+    "price": 59000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002388",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002388/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_026.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002388/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_161.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002388/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_28.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002388/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_313.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002388/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_498.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002388/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002388/image/detail/1000002388_detail_536.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002388/02.webp",
+    "hoverImage": "/images/shop/new/1000002388/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002387",
+    "category": "new",
+    "name": "ZIPPO 지포 47433 익스플로어",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47433 익스플로어",
+    "promotion": "사은품 오일증정",
+    "sku": "47433",
+    "price": 69000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002387",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002387/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_020.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002387/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_13.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002387/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_257.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002387/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_313.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002387/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_415.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002387/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002387/image/detail/1000002387_detail_597.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002387/02.webp",
+    "hoverImage": "/images/shop/new/1000002387/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002386",
+    "category": "new",
+    "name": "ZIPPO 지포 47414 제임스 본드 007 건 로고 (Multi Logo)",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47414 제임스 본드 007 건 로고 (Multi Logo)",
+    "promotion": "사은품 오일증정",
+    "sku": "47414",
+    "price": 89000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002386",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002386/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_015.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002386/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_149.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002386/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_263.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002386/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_354.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002386/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_460.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002386/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002386/image/detail/1000002386_detail_579.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002386/02.webp",
+    "hoverImage": "/images/shop/new/1000002386/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002385",
+    "category": "new",
+    "name": "ZIPPO 지포 47413 제임스 본드 007 건 로고 (Gold Diamond Pattern)",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47413 제임스 본드 007 건 로고 (Gold Diamond Pattern)",
+    "promotion": "사은품 오일증정",
+    "sku": "47413",
+    "price": 79000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002385",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002385/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_015.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002385/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_160.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002385/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_261.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002385/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_394.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002385/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_455.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002385/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002385/image/detail/1000002385_detail_59.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002385/02.webp",
+    "hoverImage": "/images/shop/new/1000002385/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002384",
+    "category": "new",
+    "name": "ZIPPO 지포 47399 크라운 로얄",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47399 크라운 로얄",
+    "promotion": "사은품 오일증정",
+    "sku": "47399",
+    "price": 69000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002384",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/new/1000002384/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_03.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002384/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_149.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002384/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_259.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002384/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_394.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002384/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_49.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/new/1000002384/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002384/image/detail/1000002384_detail_515.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/new/1000002384/02.webp",
+    "hoverImage": "/images/shop/new/1000002384/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000000617",
+    "category": "custom",
+    "name": "Brushed Chrome",
+    "sourceName": "[사은품 오일증정] Brushed Chrome",
+    "promotion": "사은품 오일증정",
+    "sku": "200",
+    "price": 39000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000617",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000617/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000617/image/detail/1000000617_detail_023.jpg",
+        "width": 530,
+        "height": 530
+      },
+      {
+        "src": "/images/shop/custom/1000000617/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000617/image/detail/1000000617_detail_129.jpg",
+        "width": 530,
+        "height": 530
+      },
+      {
+        "src": "/images/shop/custom/1000000617/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000617/image/detail/1000000617_detail_219.jpg",
+        "width": 530,
+        "height": 530
+      },
+      {
+        "src": "/images/shop/custom/1000000617/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000617/image/detail/1000000617_detail_312.jpg",
+        "width": 530,
+        "height": 530
+      },
+      {
+        "src": "/images/shop/custom/1000000617/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000617/image/detail/1000000617_detail_469.jpg",
+        "width": 530,
+        "height": 530
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000617/03.webp",
+    "hoverImage": "/images/shop/custom/1000000617/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000000533",
+    "category": "custom",
+    "name": "Classic High Polish Chrome",
+    "sourceName": "[사은품 오일증정] Classic High Polish Chrome",
+    "promotion": "사은품 오일증정",
+    "sku": "250",
+    "price": 46000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000533",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000533/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_081.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000000533/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_180.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000000533/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_240.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000000533/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_366.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000000533/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_458.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000000533/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000533/image/detail/modify_detail_577.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000533/01.webp",
+    "hoverImage": "/images/shop/custom/1000000533/04.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000000871",
+    "category": "custom",
+    "name": "Classic Black Matte",
+    "sourceName": "[사은품 오일증정] Classic Black Matte",
+    "promotion": "사은품 오일증정",
+    "sku": "218",
+    "price": 39000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000871",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000871/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000871/image/detail/register_detail_015.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/custom/1000000871/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000871/image/detail/register_detail_179.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000871/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000871/image/detail/register_detail_271.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000871/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000871/image/detail/register_detail_377.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000871/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000871/image/detail/register_detail_46.jpg",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000871/01.webp",
+    "hoverImage": "/images/shop/custom/1000000871/03.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000000874",
+    "category": "custom",
+    "name": "150 BLACK ICE",
+    "sourceName": "[사은품 오일증정] 150 BLACK ICE",
+    "promotion": "사은품 오일증정",
+    "sku": "1000000874",
+    "price": 49000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000874",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000874/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_031.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000874/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_191.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000874/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_25.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000874/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_338.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000874/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_429.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000874/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000874/image/detail/modify_detail_522.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000874/01.webp",
+    "hoverImage": "/images/shop/custom/1000000874/04.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000000875",
+    "category": "custom",
+    "name": "Classic Multi Color",
+    "sourceName": "[사은품 오일증정] Classic Multi Color",
+    "promotion": "사은품 오일증정",
+    "sku": "151",
+    "price": 49000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000875",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000875/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000875/image/detail/register_detail_092.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/custom/1000000875/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000875/image/detail/register_detail_112.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000875/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000875/image/detail/register_detail_263.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000875/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000875/image/detail/register_detail_32.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/shop/custom/1000000875/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000875/image/detail/register_detail_486.jpg",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000875/02.webp",
+    "hoverImage": "/images/shop/custom/1000000875/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000000731",
+    "category": "custom",
+    "name": "Classic White Matte",
+    "sourceName": "[사은품 오일증정] Classic White Matte",
+    "promotion": "사은품 오일증정",
+    "sku": "214",
+    "price": 36000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000000731",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000000731/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000731/image/detail/modify_detail_0100.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000731/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000731/image/detail/modify_detail_198.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000731/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000731/image/detail/modify_detail_271.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000731/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000731/image/detail/modify_detail_347.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000000731/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000000731/image/detail/modify_detail_433.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000000731/01.webp",
+    "hoverImage": "/images/shop/custom/1000000731/03.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000001033",
+    "category": "custom",
+    "name": "Classic Iridescent",
+    "sourceName": "[사은품 오일증정] Classic Iridescent",
+    "promotion": "사은품 오일증정",
+    "sku": "49146",
+    "price": 46000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001033",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000001033/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001033/image/detail/modify_detail_033.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/custom/1000001033/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001033/image/detail/modify_detail_145.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000001033/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001033/image/detail/modify_detail_255.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000001033/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001033/image/detail/modify_detail_321.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/custom/1000001033/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001033/image/detail/modify_detail_496.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000001033/01.webp",
+    "hoverImage": "/images/shop/custom/1000001033/03.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000001550",
+    "category": "custom",
+    "name": "Classic Brick",
+    "sourceName": "[사은품 오일증정] Classic Brick",
+    "promotion": "사은품 오일증정",
+    "sku": "49844",
+    "price": 39000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001550",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/custom/1000001550/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_015.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000001550/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_111.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000001550/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_266.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000001550/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_381.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000001550/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_41.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/custom/1000001550/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001550/image/detail/register_detail_549.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/custom/1000001550/01.webp",
+    "hoverImage": "/images/shop/custom/1000001550/02.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002189",
+    "category": "armor",
+    "name": "ZIPPO 라이터 29670 Armor Tree of life",
+    "sourceName": "[사은품 오일증정] ZIPPO 라이터 29670 Armor Tree of life",
+    "promotion": "사은품 오일증정",
+    "sku": "29670",
+    "price": 128700,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002189",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000002189/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_083.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/armor/1000002189/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_128.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000002189/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_286.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000002189/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_378.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000002189/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_452.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000002189/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002189/image/detail/1000002189_detail_563.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000002189/02.webp",
+    "hoverImage": "/images/shop/armor/1000002189/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001871",
+    "category": "armor",
+    "name": "Zippo Script Logo Collectible Armor® Rose Gold",
+    "sourceName": "[사은품 오일증정] Zippo Script Logo Collectible Armor® Rose Gold",
+    "promotion": "사은품 오일증정",
+    "sku": "48768",
+    "price": 209000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001871",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001871/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_099.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/armor/1000001871/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_120.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000001871/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_222.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000001871/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_385.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000001871/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_434.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/armor/1000001871/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001871/image/detail/register_detail_516.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001871/02.webp",
+    "hoverImage": "/images/shop/armor/1000001871/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001842",
+    "category": "armor",
+    "name": "Armor® Side Black",
+    "sourceName": "[사은품 오일증정] Armor® Side Black",
+    "promotion": "사은품 오일증정",
+    "sku": "1000001842",
+    "price": 111300,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001842",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001842/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001842/image/detail/register_detail_097.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/armor/1000001842/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001842/image/detail/register_detail_111.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001842/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001842/image/detail/register_detail_234.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001842/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001842/image/detail/register_detail_339.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001842/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001842/image/detail/register_detail_477.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001842/01.webp",
+    "hoverImage": "/images/shop/armor/1000001842/04.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000001837",
+    "category": "armor",
+    "name": "Armor® Wicca Design",
+    "sourceName": "[사은품 오일증정] Armor® Wicca Design",
+    "promotion": "사은품 오일증정",
+    "sku": "49689",
+    "price": 159000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001837",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001837/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_030.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/armor/1000001837/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_110.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001837/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_26.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001837/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_317.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001837/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_436.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001837/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001837/image/detail/register_detail_581.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001837/02.webp",
+    "hoverImage": "/images/shop/armor/1000001837/03.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000001834",
+    "category": "armor",
+    "name": "Armor® Magic Eye-1",
+    "sourceName": "[사은품 오일증정] Armor® Magic Eye-1",
+    "promotion": "사은품 오일증정",
+    "sku": "1000001834",
+    "price": 55300,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001834",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001834/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001834/image/detail/register_detail_031.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/armor/1000001834/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001834/image/detail/register_detail_166.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001834/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001834/image/detail/register_detail_229.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001834/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001834/image/detail/register_detail_363.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001834/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001834/image/detail/register_detail_48.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001834/02.webp",
+    "hoverImage": "/images/shop/armor/1000001834/04.webp",
+    "hoverStyle": "detail"
+  },
+  {
+    "id": "1000001830",
+    "category": "armor",
+    "name": "Armor® Lucky Cat Design",
+    "sourceName": "[사은품 오일증정] Armor® Lucky Cat Design",
+    "promotion": "사은품 오일증정",
+    "sku": "49802",
+    "price": 93000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001830",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001830/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_083.jpg",
+        "width": 640,
+        "height": 634
+      },
+      {
+        "src": "/images/shop/armor/1000001830/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_124.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001830/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_264.jpg",
+        "width": 750,
+        "height": 743
+      },
+      {
+        "src": "/images/shop/armor/1000001830/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_330.jpg",
+        "width": 750,
+        "height": 743
+      },
+      {
+        "src": "/images/shop/armor/1000001830/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_42.jpg",
+        "width": 750,
+        "height": 743
+      },
+      {
+        "src": "/images/shop/armor/1000001830/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001830/image/detail/register_detail_526.jpg",
+        "width": 750,
+        "height": 743
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001830/01.webp",
+    "hoverImage": "/images/shop/armor/1000001830/02.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001632",
+    "category": "armor",
+    "name": "Armor® Diamond edge Black",
+    "sourceName": "[사은품 오일증정] Armor® Diamond edge Black",
+    "promotion": "사은품 오일증정",
+    "sku": "1000001632",
+    "price": 74250,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001632",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001632/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_021.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001632/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_141.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001632/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_262.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001632/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_376.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001632/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_458.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001632/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001632/image/detail/register_detail_548.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001632/03.webp",
+    "hoverImage": "/images/shop/armor/1000001632/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001402",
+    "category": "armor",
+    "name": "Armor® Good Luck Rose Gold",
+    "sourceName": "[사은품 오일증정] Armor® Good Luck Rose Gold",
+    "promotion": "사은품 오일증정",
+    "sku": "1000001402",
+    "price": 74250,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001402",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/armor/1000001402/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_082.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001402/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_131.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001402/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_229.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001402/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_39.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001402/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_434.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/armor/1000001402/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001402/image/detail/modify_detail_550.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/armor/1000001402/02.webp",
+    "hoverImage": "/images/shop/armor/1000001402/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001892",
+    "category": "540-color",
+    "name": "Psychedelic Swirl Design",
+    "sourceName": "[사은품 오일증정] Psychedelic Swirl Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48774",
+    "price": 73000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001892",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001892/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_09.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000001892/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_160.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001892/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_558.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001892/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_61.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001892/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_797.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001892/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001892/image/detail/register_detail_874.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001892/03.webp",
+    "hoverImage": "/images/shop/540-color/1000001892/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001888",
+    "category": "540-color",
+    "name": "Abstract Design",
+    "sourceName": "[사은품 오일증정] Abstract Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48779",
+    "price": 69000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001888",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001888/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_035.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000001888/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_146.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001888/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_219.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001888/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_376.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001888/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_425.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001888/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001888/image/detail/register_detail_513.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001888/03.webp",
+    "hoverImage": "/images/shop/540-color/1000001888/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001890",
+    "category": "540-color",
+    "name": "Dragon Design",
+    "sourceName": "[사은품 오일증정] Dragon Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48777",
+    "price": 63000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001890",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001890/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_034.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000001890/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_118.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001890/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_280.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001890/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_336.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001890/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_493.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001890/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001890/image/detail/register_detail_510.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001890/02.webp",
+    "hoverImage": "/images/shop/540-color/1000001890/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001770",
+    "category": "540-color",
+    "name": "Hot Rod Design",
+    "sourceName": "[사은품 오일증정] Hot Rod Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48660",
+    "price": 61110,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001770",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001770/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_046.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001770/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_18.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001770/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_269.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001770/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_358.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001770/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_47.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001770/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001770/image/detail/register_detail_517.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001770/02.webp",
+    "hoverImage": "/images/shop/540-color/1000001770/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001464",
+    "category": "540-color",
+    "name": "Pop Art Design",
+    "sourceName": "[사은품 오일증정] Pop Art Design",
+    "promotion": "사은품 오일증정",
+    "sku": "49533",
+    "price": 63000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001464",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001464/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_071.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/540-color/1000001464/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_129.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/540-color/1000001464/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_236.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/540-color/1000001464/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_341.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/540-color/1000001464/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_44.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/shop/540-color/1000001464/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001464/image/detail/register_detail_57.jpg",
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001464/01.webp",
+    "hoverImage": "/images/shop/540-color/1000001464/02.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001985",
+    "category": "540-color",
+    "name": "Spooky Skulls Design",
+    "sourceName": "[사은품 오일증정] Spooky Skulls Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48772",
+    "price": 63000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001985",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001985/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_049.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000001985/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_142.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001985/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_250.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001985/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_363.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001985/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_439.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001985/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001985/image/detail/1000001985_detail_557.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001985/02.webp",
+    "hoverImage": "/images/shop/540-color/1000001985/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000001993",
+    "category": "540-color",
+    "name": "Horror Wolf Design",
+    "sourceName": "[사은품 오일증정] Horror Wolf Design",
+    "promotion": "사은품 오일증정",
+    "sku": "48923",
+    "price": 63000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000001993",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000001993/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_054.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000001993/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_161.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001993/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_233.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001993/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_359.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001993/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_494.jpg",
+        "width": 860,
+        "height": 860
+      },
+      {
+        "src": "/images/shop/540-color/1000001993/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000001993/image/detail/1000001993_detail_56.jpg",
+        "width": 860,
+        "height": 860
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000001993/02.webp",
+    "hoverImage": "/images/shop/540-color/1000001993/01.webp",
+    "hoverStyle": "scene"
+  },
+  {
+    "id": "1000002374",
+    "category": "540-color",
+    "name": "ZIPPO 지포 47263 컬러풀 스컬",
+    "sourceName": "[사은품 오일증정] ZIPPO 지포 47263 컬러풀 스컬",
+    "promotion": "사은품 오일증정",
+    "sku": "47263",
+    "price": 79000,
+    "currency": "KRW",
+    "sourceUrl": "https://zippo.co.kr/goods/goods_view.php?goodsNo=1000002374",
+    "capturedAt": "2026-10-22",
+    "images": [
+      {
+        "src": "/images/shop/540-color/1000002374/01.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_073.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000002374/02.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_193.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000002374/03.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_238.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000002374/04.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_381.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000002374/05.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_491.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "src": "/images/shop/540-color/1000002374/06.webp",
+        "source": "https://godomall-storage.cdn-nhncommerce.com/a696c786075191150f9ff289d56c3a90/goods/1000002374/image/detail/1000002374_detail_574.jpg",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "defaultImage": "/images/shop/540-color/1000002374/02.webp",
+    "hoverImage": "/images/shop/540-color/1000002374/01.webp",
+    "hoverStyle": "scene"
+  }
+]

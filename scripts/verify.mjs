@@ -1,4 +1,4 @@
-import { chromium } from "@playwright/test";
+import { chromium, expect } from "@playwright/test";
 import fs from "node:fs/promises";
 import assert from "node:assert/strict";
 const browser = await chromium.launch({ headless: true });
@@ -54,7 +54,11 @@ for (const width of [1920, 1440, 1024, 768, 390]) {
     fullPage: true,
   });
   await page.getByRole("tab", { name: "EMBLEM", exact: true }).click();
-  await page.getByText("해당 컬렉션은 준비 중입니다.").waitFor();
+  await expect(page.locator('.product-card')).toHaveCount(4);
+  await expect(page.locator('.product-card').first()).toContainText('Valkyrie Gold Emblem');
+  await page.getByRole('tab', { name: 'LIMITED', exact: true }).click();
+  await expect(page.locator('.product-card')).toHaveCount(4);
+  await expect(page.locator('.product-card').first()).toContainText('Pink Floyd');
   await page.getByRole("tab", { name: "CLASSIC", exact: true }).click();
   const carousel = page.locator(".product-carousel");
   await page.getByRole("button", { name: "다음 제품", exact: true }).click();
@@ -80,8 +84,10 @@ for (const width of [1920, 1440, 1024, 768, 390]) {
     "1",
   );
   await card.click();
-  await page.getByRole("dialog").waitFor();
-  await page.keyboard.press("Escape");
+  await page.waitForURL('**/shop?category=custom');
+  await page.locator('.shop-editorial-grid').waitFor();
+  await page.goBack();
+  await page.locator('.campaign-form').waitFor();
   const form = page.locator(".campaign-form");
   await form.getByRole("button", { name: "JOIN", exact: true }).click();
   await form.getByRole("status").filter({ hasText: "올바른 이메일" }).waitFor();
@@ -104,7 +110,7 @@ for (const width of [1920, 1440, 1024, 768, 390]) {
     ...geometry,
     errors,
     interactions:
-      "tabs, carousel, focus image, product dialog, newsletter validation" +
+      "tabs, carousel, focus image, shop navigation, newsletter validation" +
       (width <= 768 ? ", mobile menu" : ""),
   });
   await page.close();

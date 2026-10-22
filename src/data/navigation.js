@@ -1,8 +1,8 @@
 export const navigation = [
-  { label: "SHOP", href: "#collection" },
-  { label: "ABOUT", href: "#story" },
-  { label: "CONTACT", href: "#footer" },
-  { label: "FAQ", href: "#support" },
+  { label: "SHOP", href: "/shop" },
+  { label: "ABOUT", href: "/#story" },
+  { label: "CONTACT", href: "/#footer" },
+  { label: "FAQ", href: "/#support" },
 ];
 export const footerColumns = [
   {
@@ -33,21 +33,25 @@ export const exploreCategories = [
   {
     label: "LATEST\nRELEASES",
     name: "NEW",
+    shopCategory: "new",
     detail: "NEW COLORS · LIMITED EDITIONS",
   },
   {
     label: "CREATE\nYOUR OWN",
     name: "CUSTOM",
+    shopCategory: "custom",
     detail: "COLOR · ART · TEXT · ENGRAVING",
   },
   {
     label: "DEEP-CARVED\nARMOR®",
     name: "ARMOR®",
+    shopCategory: "armor",
     detail: "THICKER CASE · DEEPER DETAIL",
   },
   {
     label: "ART ON\nEVERY SIDE",
     name: "540° COLOR",
+    shopCategory: "540-color",
     detail: "FULL-COLOR · EDGE-TO-EDGE DESIGN",
   },
 ];

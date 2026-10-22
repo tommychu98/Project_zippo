@@ -1,8 +1,11 @@
 import { useRef, useState } from "react";
-import { products } from "../../data/products";
+import { collections } from "../../data/collections";
 import ProductCard from "../ui/ProductCard";
-export default function CollectionSection({ onNotice }) {
+import { useShop } from "../../shop/useShop";
+export default function CollectionSection() {
+  const { navigate } = useShop();
   const [tab, setTab] = useState("CLASSIC");
+  const collection = collections.find(collection => collection.id === tab);
   const list = useRef(null);
   function move(direction) {
     const width =
@@ -28,7 +31,7 @@ export default function CollectionSection({ onNotice }) {
         THE COLLECTION
       </h2>
       <div className="collection-tabs" role="tablist" aria-label="컬렉션">
-        {["CLASSIC", "EMBLEM", "LIMITED"].map((name) => (
+        {collections.map(({ id: name }) => (
           <button
             key={name}
             id={`tab-${name}`}
@@ -57,9 +60,8 @@ export default function CollectionSection({ onNotice }) {
         ))}
       </div>
       <div id="collection-panel" role="tabpanel" aria-labelledby={`tab-${tab}`}>
-        {tab === "CLASSIC" ? (
-          <>
             <div
+              key={tab}
               ref={list}
               className="product-carousel"
               tabIndex="0"
@@ -74,16 +76,11 @@ export default function CollectionSection({ onNotice }) {
                 }
               }}
             >
-              {products.map((product) => (
+              {collection.products.map((product) => (
                 <ProductCard
                   key={product.id}
                   product={product}
-                  onSelect={(item) =>
-                    onNotice(
-                      item.alt,
-                      "제품명과 상세 정보는 준비 중입니다. 시안의 TEXT는 임시 문구이며, 판매 가격은 아직 제공되지 않았습니다.",
-                    )
-                  }
+                  onSelect={() => navigate(`/shop?category=${collection.category}`)}
                 />
               ))}
             </div>
@@ -95,16 +92,6 @@ export default function CollectionSection({ onNotice }) {
                 →
               </button>
             </div>
-          </>
-        ) : (
-          <div className="collection-empty">
-            <p>{tab}</p>
-            <span>해당 컬렉션은 준비 중입니다.</span>
-            <button className="text-link" onClick={() => setTab("CLASSIC")}>
-              CLASSIC 둘러보기 →
-            </button>
-          </div>
-        )}
       </div>
     </section>
   );

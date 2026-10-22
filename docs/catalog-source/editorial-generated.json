@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1000001912",
+    "category": "armor",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-c9a0fdf0-a5cf-4eb4-9d20-da273cae8060.png",
+    "concept": "EMBLEM / GILDED ATELIER",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000001756",
+    "category": "armor",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-ec0428af-c868-4d85-9f50-cb440dcee21e.png",
+    "concept": "EMBLEM / SILVERSMITH",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000001847",
+    "category": "armor",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-386d1319-763a-4edd-ab9c-06a941f4e7fa.png",
+    "concept": "EMBLEM / WORN LEATHER",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000002170",
+    "category": "armor",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-a94969bd-cfb7-4eed-bea2-5c8b698e48b6.png",
+    "concept": "EMBLEM / STONE & BRASS",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000002315",
+    "category": "540-color",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-214e8cf2-73f8-4e96-b73f-928793e1a8d5.png",
+    "concept": "LIMITED / PRISM SESSION",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000002237",
+    "category": "540-color",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-88996316-d787-4c69-b5b3-27ec6a89366e.png",
+    "concept": "LIMITED / BLUE REFRACTION",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000002325",
+    "category": "540-color",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-d2f10a71-5bea-4e37-b93e-0615bfe800b5.png",
+    "concept": "LIMITED / ROSE ARCHIVE",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "1000002321",
+    "category": "540-color",
+    "original": "C:\\Users\\mbc\\.codex\\generated_images\\01a1616a-7f23-7d42-80ad-1a468f13278c\\exec-249d6069-67ba-4708-ae87-dcb5804d55c5.png",
+    "concept": "LIMITED / ELECTRIC VINYL",
+    "tool": "built-in image_gen",
+    "width": 1086,
+    "height": 1448
+  }
+]
